@@ -1,7 +1,7 @@
 # Site
-name: "Club Dev-Info Tanger"
-title: "Club des développeurs de Tanger"
-description: "Club des développeurs informatique de Tanger"
+name: "Soliclub - Club informatique à Solicode.co"
+title: "Club informatique à Solicode"
+description: "Club des développeurs informatique à Solicode"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.png'
 locale: fr_FR
