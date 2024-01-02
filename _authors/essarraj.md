@@ -1,8 +1,8 @@
 ---
-layout : default
-reference : essarraj
+layout: default
+reference: essarraj
 firstname: ESSARRAJ
-lastname : ESSARRAJ Fouad
+lastname: ESSARRAJ Fouad
 display_name: ESSARRAJ Fouad
 email: essarraj.fouad@gmail.com
 gravatar: e1cd7eaea3fcf6c1e320fd9378713d4f
@@ -11,17 +11,17 @@ description: "J'aide les étudiants, élèves ingénieur et stagiaires à dével
 ---
 
 ---
-layout : default
-reference : essarraj
+layout: default
+reference: essarraj
 firstname: Amina
-lastname : Assaid
-display_name: ASSAID amina
+lastname: Assaid
+display_name: ASSAID Amina
 email: assaid.amina.solicode@gmail.com
 gravatar: e1cd7eaea3fcf6c1e320fd9378713d4f
-site_web: https://www.essarrajfouad.com](https://aminaassaid1.github.io/Portfolio-Assaid-Amina.io
+site_web: https://aminaassaid1.github.io/Portfolio-Assaid-Amina.io
 description: "Web & Mobile developer"
 ---
 
-#  {{page.display_name}}
+# {{page.display_name}}
 
 {{page.description}}
